@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "new-to-card_prod"
-version = "0.0.1"
+name = "new-to-card_dev"
+version = "0.0.5"
 description = "Model new to card: identify customers who are likely to take up a credit card"
 readme = "README.md"
 

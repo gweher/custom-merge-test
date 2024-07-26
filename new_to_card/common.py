@@ -9,5 +9,5 @@ def get_config_base_path():
 
 
 # === UC MODEL STORAGE CONFIG ===
-TARGET_SCHEMA_NAME = "PROD.new_to_card"
+TARGET_SCHEMA_NAME = "DEV.new_to_card"
 MODEL_FULL_PATH = f"{TARGET_SCHEMA_NAME}.model"
