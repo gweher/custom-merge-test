@@ -1,0 +1,3 @@
+new_to_card/common.py merge=custom
+pyproject.toml merge=custom
+new_to_card_config/pipelines_config.py merge=custom

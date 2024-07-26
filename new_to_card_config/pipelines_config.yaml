@@ -1,0 +1,5 @@
+general:
+  target_schema: PROD.card
+  target_partition_column: PREDICT_DATE
+  watched_period_units: "months"
+  watched_period_value: 2

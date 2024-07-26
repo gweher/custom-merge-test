@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "new-to-card_prod"
+version = "0.0.1"
+description = "Model new to card: identify customers who are likely to take up a credit card"
+readme = "README.md"
+
+packages = [
+    { include = "new_to_card" },
+    { include = "new_to_card_config" },
+]
+
